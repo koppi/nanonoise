@@ -42,7 +42,7 @@ code was tested to compile and run under Linux.
 First install the development packages neede to build nanonoise:
 
 ```
- $ sudo apt-get install libqt5x11extras5-dev lqtbase5-dev libasound2-dev libx11-dev libxtst-dev
+ $ sudo apt-get install libqt5x11extras5-dev libqtbase5-dev libasound2-dev libx11-dev libxtst-dev
 ```
 
 Then download the application's source code from the github.com repository:
