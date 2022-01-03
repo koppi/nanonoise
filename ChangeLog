@@ -1,0 +1,426 @@
+commit 25fdf9cdac88632888a988a3cbc0770d7211f3b0
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Fri May 22 10:40:41 2009 +0200
+
+    initial win32 port.
+
+commit f1e321674ee9eb97045d3a234c3c48f82f184071
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Fri May 22 10:30:56 2009 +0200
+
+    added a sigsegv handler.
+
+commit 961cada6fee008417c1e48de3f7eafe6447f680d
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Thu Feb 26 00:04:59 2009 +0100
+
+    added a man page, a desktop icon and a ChangeLog.
+
+commit a88bf85f5150253000cc2282bd8a49b65e7a1560
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Thu Feb 26 00:01:31 2009 +0100
+
+    added a man page, a desktop icon and a ChangeLog.
+
+commit e3df1437286f0d87cb1a6add984c3513c78cd56b
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Mon Feb 9 15:34:53 2009 +0100
+
+    Added Debian build scripts and meta data.
+    Added a minor fix in the documentation.
+
+commit 6dc8573ac17f5f6cf2cb6b616f03546c3e8862be
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Tue Jan 13 16:33:44 2009 +0100
+
+    midiin/out can get NULL, if there is no midi gear connected to the system or the user has no right to read from the midi device. The app's main window size is fixed, now.
+
+commit abc0d9579e40ae821142a2c20b888f059e3d4c99
+Author: Jakob Flierl <jakob.flierl@gmail.com>
+Date:   Mon Jan 12 22:54:47 2009 +0100
+
+    renamed some urls after successful repository move.
+
+commit 285081c04bd7771bed4b59ee1329cfc750ce0788
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 25 19:45:49 2008 +0000
+
+    more mmc command names.
+
+commit 38726200ffaa75b9bfc988525474b8891c2e2cb1
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 24 21:13:08 2008 +0000
+
+    ~README
+
+commit 04910514501ab453955a9602974a127615e172db
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 24 21:12:43 2008 +0000
+
+    ~README
+
+commit 8e0e7679c7471a33899aab0948833410fd9c70a7
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 24 21:12:16 2008 +0000
+
+    ~README
+
+commit 9f6b3fcada1dfcca57fc0a1e58fa2e468c430ac3
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 24 20:45:51 2008 +0000
+
+    MERGE nanonoise koppi [60]:[62] into trunk
+
+commit f2507da3d26e5c10c847f454958ae29e19a39419
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 20:38:02 2008 +0000
+
+    Code cleanup.
+
+commit 2580d3b600125d5185bc475320b9faa3127c6e29
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 19:54:28 2008 +0000
+
+    typo
+
+commit f16a8ad60e8da062718fe27b8a5ee09a458ca221
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 19:46:13 2008 +0000
+
+    Code cleanup. Added another indirection: RenoiseKeyBindings.h and RenoiseKeyBindings.cpp
+
+commit a07c36157a0d2b8370ca7208d3127d947ceeeded
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 19:02:52 2008 +0000
+
+    ~TODO
+
+commit c28df378d4223ddfa404f2012d29c6792512efca
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 14:06:15 2008 +0000
+
+    more code cleanup
+
+commit 15a16c09563e228654cbe682bf7b9e3c7eb45354
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 12:45:37 2008 +0000
+
+    apfelsaft.ath.cx -> koppi.ath.cx
+
+commit 57dfeec47c48653d9043d699a59f3c3a36047515
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 12:20:59 2008 +0000
+
+    ~README
+
+commit 48edf9ec6631d1e1b35aa78dbde8f0490933755e
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:56:11 2008 +0000
+
+    ~README
+
+commit 5929416fa868c5da40724fe527fb08497ef80f88
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:53:54 2008 +0000
+
+    ~README
+
+commit 3f5d7e5628df86b50805f22cc09b93eb1a31bd7b
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:49:57 2008 +0000
+
+    ~README
+
+commit 67026d20b45ffad7e9df89dd110beb2d5edcf92d
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:44:23 2008 +0000
+
+    +README
+
+commit 46389f76eb24a976aad14cadbe151f75f3e87d81
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:39:31 2008 +0000
+
+    +README
+
+commit 19764f28729fe3e101d165072969914c22b32e5a
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:38:56 2008 +0000
+
+    +README
+
+commit 83889fe6a4eaf36157dc835518ce7118f1c4f84e
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 23 11:37:56 2008 +0000
+
+    +README
+
+commit 256f4877924ed35b8923cfdefb5e0754e3bd7920
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Fri Nov 21 21:42:37 2008 +0000
+
+    new ideas
+
+commit f3b59fec41079fccd01e1cab94a61283675c11d6
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Thu Nov 20 19:40:12 2008 +0000
+
+    +icon.png
+
+commit a5802af4187c2aa7d978cd3abd62de33299a92af
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Thu Nov 20 15:11:44 2008 +0000
+
+    +application icon
+
+commit 83f031929adb170a25a8d93b1578a81748f205de
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Thu Nov 20 14:55:16 2008 +0000
+
+    added an application icon.
+
+commit 6eb6e601081659d466613b0077b2c4868213b871
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Thu Nov 20 13:11:08 2008 +0000
+
+    Some code cleanup. Added code to find most recent KeyBindings.xml
+
+commit 293d1fb8dfa369345cf31776533b9ea40305537e
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 22:40:31 2008 +0000
+
+    added a virtual midi in port
+
+commit 3ce6ce6c56b06056a49f948971c68614f5524b5d
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 21:48:20 2008 +0000
+
+    some cleanup
+
+commit 25501c3ff3144668c85b77e3786b4fd271f094e6
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 21:35:25 2008 +0000
+
+    some cleanup
+
+commit fc5e75750739057da196d5a1c3c56c8377d27f9d
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 20:39:27 2008 +0000
+
+    some cleanup
+
+commit 5b61fa56b18390e0344c8127ed73d841f213bd89
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 20:32:48 2008 +0000
+
+    some cleanup
+
+commit ea96259b22612b3f5b03873a6aef579925418ee3
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 20:32:36 2008 +0000
+
+    some cleanup
+
+commit 623affade918cf64b1d0540f19815f76e8c1c1ec
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 20:30:21 2008 +0000
+
+    some cleanup
+
+commit 7aa4700162eb33d9a9dba245016220211fd21587
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Wed Nov 19 17:43:25 2008 +0000
+
+    Fixed code to compile with qt4.3
+
+commit 663549731cfc8c062dad76252696092af5e07a62
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 18 16:44:30 2008 +0000
+
+    additional renoise keystroke names
+
+commit 6fc9c42f04f18802651da7ec085112287568f22a
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 18 15:45:52 2008 +0000
+
+    more key mappings
+
+commit b2a610e30795df843ec916bc8c40266587f2760f
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 23:36:06 2008 +0000
+
+    Send keyon event on midi cc 0x7f value and keyoff event on midi cc 0x00 value.
+
+commit a2ba230b6993b07ac4406de6649347292da283d3
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 22:40:07 2008 +0000
+
+    bad day
+
+commit e50a7fa43e296beab95abcf471267646ab26deeb
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 22:05:18 2008 +0000
+
+    first renoise keybindings are working. Now, go for the rest.
+
+commit c3d8fa7453a82511e34c3dc9a04fdbde35b8930e
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 19:22:10 2008 +0000
+
+    bad day
+
+commit da26550cd1c8db60ceb874f25be89504b6d3433c
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 19:12:31 2008 +0000
+
+    bad day
+
+commit 7bd7cf4ed64eedccd16bcecfdb95af2da97d4978
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 17:53:16 2008 +0000
+
+    bad day
+
+commit fe8d437931edd2f6057a3cce9008ca1cdb9edb8a
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 16:27:42 2008 +0000
+
+    bad day
+
+commit 815a66a25fcdc2f429ab0e7b0534b13870e9477f
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 16:08:51 2008 +0000
+
+    bad day
+
+commit dc387226f0e1498cef6e0d76857825cddfe7cd5c
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Sun Nov 16 15:43:39 2008 +0000
+
+    bad day
+
+commit 5ab40a7187863fc063931172684ecb6c45a84ac6
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Fri Nov 14 23:37:26 2008 +0000
+
+    +support for multiple scenes, leds
+
+commit fcc5983e73522fa729ce5fe9e935f894b0448e0e
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Fri Nov 14 22:22:58 2008 +0000
+
+    +support for multiple scenes, leds
+
+commit ffc15a8700f65c33e996e17d48f786a17c4c246c
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Fri Nov 14 22:10:07 2008 +0000
+
+    +support for multiple scenes, leds
+
+commit 4e1baaf35b43ed3789365d388aa46b43b5f451ac
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Fri Nov 14 20:09:00 2008 +0000
+
+    ~TODO
+
+commit c82a1a84b4b5406d55b0b1459ec3ae18f2bdd538
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 11 11:18:58 2008 +0000
+
+    add tiny dots to show midi and renoise mappings
+
+commit 390f866e98ac494a3d442b670c7f89b2e05b21ad
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 11 09:45:12 2008 +0000
+
+    X11DoTool send key
+
+commit 95611247200f316f066dfd23dd958606155dba31
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Tue Nov 11 08:37:51 2008 +0000
+
+    preferences: save renoise keystroke mappings
+
+commit a1ec00deefd8725e37762436a2b957f258d10357
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 21:28:13 2008 +0000
+
+    prefs: save skin selection
+
+commit 0ac4b3de85a488db2948e166d689256699415f97
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:31:08 2008 +0000
+
+    Added image resources
+
+commit 689ebe051f6a6da0683124cc364d1e41ca0b117a
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:09:57 2008 +0000
+
+    --
+
+commit 5e32b8748c72778fb34adc98666db58eb8462aa5
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:09:35 2008 +0000
+
+    --
+
+commit 3a66dd7f1ef0ad7421e7a8488a585904dbcc34ae
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:07:52 2008 +0000
+
+    Ignore a directory called .ui
+
+commit 0dcdb93eb911927088f3df46e93fcd4e4a15dace
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:07:10 2008 +0000
+
+    Removing inadvertently added directory .ui
+
+commit 76313fb37c29197d532356e480b3180d20203f9b
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:06:34 2008 +0000
+
+    Ignore a directory called .moc
+
+commit 2bdae9fbce0f67ea2550040c5fc33feb12bf4a30
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:05:51 2008 +0000
+
+    Removing inadvertently added directory .moc
+
+commit f6bbf5a6e32e63df3dd34253a80de83b72a02bc1
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:05:02 2008 +0000
+
+    Ignore a directory called .obj
+
+commit 2b4ff8410890064e7cdd182e42add251f191a038
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 17:03:54 2008 +0000
+
+    Removing inadvertently added directory .obj
+
+commit ea8be3043b7517144a069afd14eff8f2242d8994
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 16:56:47 2008 +0000
+
+    Initial import.
+
+commit 6ee912d59907143cda1ad932029e9dfda6368fda
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 16:38:22 2008 +0000
+
+    Initial import.
+
+commit 3f0f0abac5bc162840f3ba7d0c1f98fdf6607717
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 16:37:52 2008 +0000
+
+    Initial import.
+
+commit 2ac2d4ecbdfb57b6e99de840fc414b4c3d7599ef
+Author: Jakob Flierl <Jakob.Flierl@gmail.com>
+Date:   Mon Nov 10 16:24:05 2008 +0000
+
+    added branches-, tags- and trunk-structure

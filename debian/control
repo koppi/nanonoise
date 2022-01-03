@@ -1,0 +1,20 @@
+Source: nanonoise
+Priority: optional
+Maintainer: Jakob Flierl <jakob.flierl@gmail.com>
+Build-Depends: debhelper (>= 5), qtbase5-dev, libasound2-dev, libx11-dev, libxtst-dev, pkg-config
+Standards-Version: 3.8.3
+Section: sound
+Homepage: http://koppi.github.com/nanonoise/
+
+Package: nanonoise
+Section: sound
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Renoise tool which maps MIDI messages to keystrokes
+ This application is a quick hack to enable sending keystrokes to the
+ Renoise tracking software triggered by MIDI-CC messages and MIDI-MMC
+ commands. In this way you can send to Renoise commands via MIDI, which
+ are mapped to keyboard shortcuts.
+ .
+ This package contains the files necessary for running application.
+

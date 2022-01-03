@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# Qt build artefacts
+.moc/
+.qmake.stash
+.rcc/
+Makefile
+nanonoise
+
+# Debian build artefacts
+build-stamp
+
+# VI artefacts
+*.swp
+

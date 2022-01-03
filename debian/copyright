@@ -1,0 +1,22 @@
+This package was debianized by Jakob Flierl <jakob.flierl@gmail.com> on
+Mon Feb  9 19:08:41 CET 2009
+
+It was downloaded from http://koppi.github.com/nanonoise/
+
+Upstream Authors:
+
+ - Jakob Flierl <jakob.flierl@gmail.com>
+
+Copyright:
+
+ (C) 2009 Jakob Flierl
+
+License:
+
+ LGPL
+
+On Debian systems, the complete text of the GNU Lesser General
+Public License can be found in `/usr/share/common-licenses/LGPL'.
+
+The Debian packaging is (C) 2009, Jakob Flierl <jakob.flierl@gmail.com>
+and is licensed under the GPL, see `/usr/share/common-licenses/GPL'.

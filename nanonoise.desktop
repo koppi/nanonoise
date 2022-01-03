@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+
+Name=nanonoise
+GenericName=
+Comment=Renoise Midi to keystroke application
+Icon=/usr/share/pixmaps/nanonoise.xpm
+
+Type=Application
+Categories=Application;AudioVideo;Audio;
+
+Exec=nanonoise
+Terminal=false

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource>
+    <file>images/nanokontrol-black.png</file>
+    <file>images/nanokontrol-black-led-on.png</file>
+    <file>images/nanokontrol-black-led-off.png</file>
+    <file>images/nanokontrol-black-slider.png</file>
+    <file>images/nanokontrol-black-knob.png</file>
+    <file>images/nanokontrol-black-button.png</file>
+    <file>images/nanokontrol-black-button-pressed.png</file>
+    <file>images/nanokontrol-white.png</file>
+    <file>images/nanokontrol-white-led-on.png</file>
+    <file>images/nanokontrol-white-led-off.png</file>
+    <file>images/nanokontrol-white-slider.png</file>
+    <file>images/nanokontrol-white-knob.png</file>
+    <file>images/nanokontrol-white-button.png</file>
+    <file>images/nanokontrol-white-button-pressed.png</file>
+    <file>images/icon.png</file>
+    <file>re-191.xml</file>
+  </qresource>
+</RCC>

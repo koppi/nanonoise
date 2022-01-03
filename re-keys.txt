@@ -1,0 +1,316 @@
+"" 
+"Alt + 1" 
+"Alt + 2" 
+"Alt + 3" 
+"Alt + 4" 
+"Alt + A" 
+"Alt + Backslash" 
+"Alt + Control + A" 
+"Alt + Control + D" 
+"Alt + Control + E" 
+"Alt + Control + I" 
+"Alt + Control + L" 
+"Alt + Control + R" 
+"Alt + Control + S" 
+"Alt + Delete" 
+"Alt + Down" 
+"Alt + End" 
+"Alt + Equals" 
+"Alt + F1" 
+"Alt + F2" 
+"Alt + F3" 
+"Alt + F4" 
+"Alt + F5" 
+"Alt + F6" 
+"Alt + F7" 
+"Alt + Home" 
+"Alt + Left" 
+"Alt + Minus" 
+"Alt + Q" 
+"Alt + Return" 
+"Alt + Right" 
+"Alt + S" 
+"Alt + T" 
+"Alt + Tab" 
+"Alt + Up" 
+"Alt + W" 
+"Alt + X" 
+"Alt + Y" 
+"Apps" 
+"Back" 
+"Backslash" 
+"Capital" 
+"Control + 0" 
+"Control + 1" 
+"Control + 2" 
+"Control + 3" 
+"Control + 4" 
+"Control + 5" 
+"Control + 6" 
+"Control + 7" 
+"Control + 8" 
+"Control + 9" 
+"Control + A" 
+"Control + B" 
+"Control + Back" 
+"Control + Backslash" 
+"Control + C" 
+"Control + Capital" 
+"Control + Comma" 
+"Control + D" 
+"Control + Delete" 
+"Control + Down" 
+"Control + E" 
+"Control + End" 
+"Control + Equals" 
+"Control + F" 
+"Control + F1" 
+"Control + F2" 
+"Control + F3" 
+"Control + F4" 
+"Control + F5" 
+"Control + F6" 
+"Control + F7" 
+"Control + G" 
+"Control + Grave" 
+"Control + H" 
+"Control + Home" 
+"Control + I" 
+"Control + Insert" 
+"Control + J" 
+"Control + K" 
+"Control + L" 
+"Control + Left" 
+"Control + M" 
+"Control + Minus" 
+"Control + N" 
+"Control + Next" 
+"Control + Numpad0" 
+"Control + Numpad1" 
+"Control + Numpad2" 
+"Control + Numpad3" 
+"Control + Numpad4" 
+"Control + Numpad5" 
+"Control + Numpad6" 
+"Control + Numpad7" 
+"Control + Numpad8" 
+"Control + Numpad9" 
+"Control + NumpadMinus" 
+"Control + NumpadPlus" 
+"Control + O" 
+"Control + P" 
+"Control + Prior" 
+"Control + R" 
+"Control + Return" 
+"Control + Right" 
+"Control + S" 
+"Control + Space" 
+"Control + T" 
+"Control + Tab" 
+"Control + U" 
+"Control + Up" 
+"Control + V" 
+"Control + X" 
+"Control + Z" 
+"Delete" 
+"Down" 
+"End" 
+"Escape" 
+"F1" 
+"F10" 
+"F11" 
+"F12" 
+"F2" 
+"F3" 
+"F4" 
+"F5" 
+"F6" 
+"F7" 
+"F8" 
+"F9" 
+"Grave" 
+"Home" 
+"Insert" 
+"Left" 
+"Minus" 
+"Next" 
+"Numpad0" 
+"Numpad1" 
+"Numpad2" 
+"Numpad3" 
+"Numpad4" 
+"Numpad5" 
+"Numpad6" 
+"Numpad7" 
+"Numpad8" 
+"Numpad9" 
+"NumpadDivide" 
+"NumpadEnter" 
+"NumpadEqual" 
+"NumpadMinus" 
+"NumpadMultiply" 
+"NumpadPlus" 
+"Prior" 
+"RAlt" 
+"Return" 
+"Right" 
+"RMeta" 
+"RShift" 
+"Scroll" 
+"Shift + Alt + A" 
+"Shift + Alt + Backslash" 
+"Shift + Alt + C" 
+"Shift + Alt + Control + F8" 
+"Shift + Alt + Control + F9" 
+"Shift + Alt + Control + R" 
+"Shift + Alt + F3" 
+"Shift + Alt + Q" 
+"Shift + Alt + V" 
+"Shift + Alt + X" 
+"Shift + Alt + Y" 
+"Shift + Back" 
+"Shift + Backslash" 
+"Shift + Capital" 
+"Shift + Control + 1" 
+"Shift + Control + 2" 
+"Shift + Control + 3" 
+"Shift + Control + 4" 
+"Shift + Control + Back" 
+"Shift + Control + Backslash" 
+"Shift + Control + Capital" 
+"Shift + Control + Delete" 
+"Shift + Control + Down" 
+"Shift + Control + End" 
+"Shift + Control + F" 
+"Shift + Control + F1" 
+"Shift + Control + F2" 
+"Shift + Control + F3" 
+"Shift + Control + F4" 
+"Shift + Control + F5" 
+"Shift + Control + F6" 
+"Shift + Control + F7" 
+"Shift + Control + Grave" 
+"Shift + Control + H" 
+"Shift + Control + Home" 
+"Shift + Control + I" 
+"Shift + Control + Insert" 
+"Shift + Control + L" 
+"Shift + Control + Left" 
+"Shift + Control + M" 
+"Shift + Control + N" 
+"Shift + Control + Next" 
+"Shift + Control + O" 
+"Shift + Control + P" 
+"Shift + Control + Prior" 
+"Shift + Control + R" 
+"Shift + Control + Return" 
+"Shift + Control + Right" 
+"Shift + Control + S" 
+"Shift + Control + T" 
+"Shift + Control + Tab" 
+"Shift + Control + U" 
+"Shift + Control + Up" 
+"Shift + Control + V" 
+"Shift + Control + Z" 
+"Shift + Delete" 
+"Shift + F1" 
+"Shift + F2" 
+"Shift + F3" 
+"Shift + F4" 
+"Shift + F5" 
+"Shift + F6" 
+"Shift + F7" 
+"Shift + Grave" 
+"Shift + H" 
+"Shift + I" 
+"Shift + L" 
+"Shift + RAlt" 
+"Shift + Return" 
+"Shift + RMeta" 
+"Shift + RShift" 
+"Shift + Scroll" 
+"Shift + Space" 
+"Shift + Tab" 
+"Space" 
+"Tab" 
+"Up" 
+
+
+== Keys from the renoise 1.9.1 binary ==
+
+Shift +
+Alt +
+Option +
+Control +
+Command +
+WinKey +
+Meta +
+Return
+Period
+Numpad
+Numpad =
+Numpad /
+Numpad *
+Numpad -
+Numpad +
+Numpad Lock
+Numpad Enter
+Escape
+Equals
+Backslash
+LBracket
+RBracket
+Grave
+PeakedBracket
+Semicolon
+Apostrophe
+Prior
+LMeta
+RMeta
+LControl
+RControl
+LShift
+RShift
+LMenu
+RMenu
+LAlt
+RAlt
+Apps
+Capital
+Numlock
+Scroll
+Numpad0
+Numpad1
+Numpad2
+Numpad3
+Numpad4
+Numpad5
+Numpad6
+Numpad7
+Numpad8
+Numpad9
+NumpadLock
+NumpadMinus
+NumpadPlus
+NumpadEqual
+NumpadMultiply
+NumpadDivide
+NumpadComma
+NumpadEnter
+PlayPause
+MediaStop
+VolumeDown
+VolumeUp
+PrevTrack
+NextTrack
+WebSearch
+WebFavorites
+WebRefresh
+WebStop
+WebForward
+WebBack
+WebHome
+MyComputer
+Mail
+MediaSelect
+Calculator
