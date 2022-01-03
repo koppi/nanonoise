@@ -124,7 +124,7 @@ if (sequence.size() == 0) {
   keys = (int*)malloc(keys_len * sizeof(int));
   int keysym;
 
-  QStringList l = sequence.split("+", Qt::SkipEmptyParts);
+  QStringList l = sequence.split("+", QString::SplitBehavior::SkipEmptyParts);
   for (int i = 0; i < l.size(); ++i) {
     QString tok = l.at(i);
     
