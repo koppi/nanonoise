@@ -20,7 +20,7 @@ m_parent = parent;
   int dummy;
   if (!XTestQueryExtension(dpy, &dummy, &dummy, &dummy, &dummy)) {
     qDebug() << "Error: No XTEST extension available on screen"
-             << QX11Info::appScreen() << Qt::endl;
+             << QX11Info::appScreen() << "\n";
     exit(1);
   }
 #elif defined (Q_WS_WIN32)
