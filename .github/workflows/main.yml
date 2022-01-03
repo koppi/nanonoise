@@ -1,0 +1,32 @@
+name: Ubuntu
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: install packages required for the build
+      run: |
+        sudo apt update
+        sudo apt full-upgrade -y
+        sudo DEBIAN_FRONTEND=noninteractive  apt -qq -y install devscripts equivs lintian
+        mk-build-deps -i -s sudo -t "apt --yes --no-install-recommends"
+        
+    - name: build deb package
+      run: dpkg-buildpackage -b -rfakeroot -us -uc
+      
+    - name: install deb package
+      run: sudo dpkg -i ../nanonoise*deb
+
+    - name: run lintian
+      run: lintian ../nanonoise*deb | lintian-info
+
