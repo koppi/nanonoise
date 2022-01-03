@@ -1,7 +1,7 @@
 Source: nanonoise
 Priority: optional
 Maintainer: Jakob Flierl <jakob.flierl@gmail.com>
-Build-Depends: debhelper (>= 5), qtbase5-dev, libasound2-dev, libx11-dev, libxtst-dev, pkg-config
+Build-Depends: debhelper (>= 5), qtbase5-dev, libqt5x11extras5-dev, libasound2-dev, libx11-dev, libxtst-dev, pkg-config
 Standards-Version: 3.8.3
 Section: sound
 Homepage: http://koppi.github.com/nanonoise/
