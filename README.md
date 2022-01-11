@@ -1,7 +1,7 @@
 # nanonoise - map midi to Renoise keystrokes
 
 The nanonoise application is a quick hack to enable sending keystrokes to
-the Renoise tracking software triggered by midi cc messages and midi mmc
+the [Renoise tracking software](https://www.renoise.com/) triggered by midi cc messages and midi mmc
 commands.
 
 The app was originally written for the KORG nanoKONTROL midi controller,
