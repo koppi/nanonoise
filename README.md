@@ -41,34 +41,34 @@ code was tested to compile and run under Linux.
 
 First install the development packages needed to build nanonoise:
 
-```
- $ sudo apt-get install libqt5x11extras5-dev libqtbase5-dev libasound2-dev libx11-dev libxtst-dev
+```bash
+sudo apt -y install libqt5x11extras5-dev libqtbase5-dev libasound2-dev libx11-dev libxtst-dev
 ```
 
 Then download the application's source code from the github.com repository:
 
-```
- $ git clone git://github.com/koppi/nanonoise.git
+```bash
+git clone git://github.com/koppi/nanonoise.git
 ```
 
 (this will create the directory nanonoise/) and compile nanonoise:
 
-```
- $ cd nanonoise
- $ qmake
- $ make -j$(nproc)
+```bash
+cd nanonoise
+qmake
+make -j$(nproc)
 ```
 
 Install and run nanonoise as follows:
 
-```
- $ sudo cp nanonoise /usr/local/bin
- $ nanonoise &
+```bash
+sudo cp nanonoise /usr/local/bin
+nanonoise &
 ```
 
 ## Supported operating systems
 
-- [x] Linux - Ubuntu 21.10.
+- [x] Linux - Ubuntu 22.04.
 - [ ] MacOS - (not tested so far):
    Needs a bit of tweaking in the source code.
    Please send patches and give feedback!
