@@ -15,6 +15,12 @@ X11DoTool::X11DoTool(QWidget *parent)
 m_parent = parent;
 
 #if defined Q_WS_X11 /* Qt4 */ || defined Q_OS_LINUX /* Qt5 */
+
+  if (qgetenv("XDG_SESSION_TYPE") == QString("wayland")) {
+    qDebug() << "Error: wayland not supported yet\n";
+    exit(1);
+  }
+
   dpy = QX11Info::display();
 
   int dummy;
