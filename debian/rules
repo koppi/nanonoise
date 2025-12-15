@@ -31,12 +31,12 @@ clean:
 	dh_testroot
 	rm -f build-stamp
 	[ ! -f Makefile ] || $(MAKE) clean
-	dh_clean
+	dh_prep
 
 install: build
 	dh_testdir
 	dh_testroot
-	dh_clean -k
+	dh_prep
 	dh_installdirs
 
 	$(MAKE) INSTALL_ROOT=$(CURDIR)/debian/tmp install
@@ -73,7 +73,7 @@ binary-arch: build install
 	dh_installmenu
 	dh_link
 	dh_strip
-	dh_compress -s
+	dh_compress -a
 	dh_fixperms
 	dh_makeshlibs
 	dh_installdeb
