@@ -68,7 +68,7 @@ nanonoise &
 
 ## Supported operating systems
 
-- [x] Linux - Ubuntu 22.04.
+- [x] Linux - Ubuntu 22.04 - 26.04 LTS.
 - [ ] MacOS - (not tested so far):
    Needs a bit of tweaking in the source code.
    Please send patches and give feedback!
